@@ -1,0 +1,3 @@
+[submodule "erc20-faucet-dapp/lib/openzeppelin-contracts"]
+	path = erc20-faucet-dapp/lib/openzeppelin-contracts
+	url = https://github.com/Openzeppelin/openzeppelin-contracts
